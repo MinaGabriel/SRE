@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files - LoRA adapters
+TinyLlama-1.1B-Chat-v1.0-SRE-LoRA/
+
+# Large model files
+*.bin
+*.safetensors
+*.gguf
+*.pth
+*.pt
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,197 @@
+Q: What is George Rankin's occupation?
+Snippets:
+- George Rankin Major General George James Rankin, (1 May 1887 - 28 December 1957) was an Australian soldier and politician.
+- George Claus Rankin Sir George Claus Rankin PC (12 August 1877 - 8 April 1946) was a British judge in India.
+Pred: ["soldier", "politician", "judge"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is John Mayne's occupation?
+Snippets:
+- John Mayne John Mayne (1759-1836) was a Scottish printer, journalist and poet born in Dumfries, South West Scotland.
+Pred: ["printer", "journalist", "poet"]
+Gold: ["journalist", "journo", "journalists"]
+EM: 1.0
+----------------------------------------
+Q: What is Henry Feilden's occupation?
+Snippets:
+- Henry Feilden (Conservative politician) Henry Master Feilden (21 February 1818 - 5 September 1875) was an English Conservative Party politician.
+Pred: ["conservative politician"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is Kathy Saltzman's occupation?
+Snippets:
+- Kathy Saltzman Kathy L. Saltzman (born June 4, 1955) is a Minnesota politician and a former member of the Minnesota Senate who represented District 56, which includes portions of Washington County in the eastern Twin Cities metropolitan area.
+Pred: ["politician", "minnesota senator"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is Eleanor Davis's occupation?
+Snippets:
+- Eleanor Layfield Davis Eleanor Layfield Davis (1911-1985), also called ELDA, was an American painter.
+- Eleanor Davis Eleanor McCutcheon Davis (born January 16, 1983) is an American cartoonist and illustrator who creates comic works and other art for both adolescent and adult audiences.
+- Eleanor Layfield Davis was born Eleanor Layfield in 1911, in Richmond, Virginia.
+- Eleanor Davis was raised in Tucson, Arizona by comic enthusiast parents who exposed her to stories and styles such as ""Little Lulu"", ""Krazy Kat"", ""Little Nemo"" and the ""Kinder Kids"".
+Pred: ["painter", "cartoonist", "illustrator"]
+Gold: ["cartoonist", "graphic artist", "animator", "illustrator"]
+EM: 1.0
+----------------------------------------
+Q: What is Alexander Rinnooy Kan's occupation?
+Snippets:
+- Alexander Rinnooy Kan Alexander Hendrik George Rinnooy Kan (born 5 October 1949) is a Dutch mathematician and business leader.
+- Between 1996 and 2006, Rinnooy Kan was a member of the board of directors of ING Group, where he was responsible for the Asian branch.
+- Rinnooy Kan grew up in The Hague.
+- he is University Professor of Economics and Business Studies at the University of Amsterdam.
+- From 1991 until 1996, he was president of the employers federation VNO and, after the merger with NCW, of the VNO-NCW.
+- He graduated in mathematics at Leiden University in 1972.
+- From August 2006 until September 2012, he was president and crown-appointed member of the Dutch Social-Economic Council (SER).
+- The Dutch newspaper ""de Volkskrant"" named him the most influential person in the Netherlands in 2007, 2008, and 2009.
+- Rinnooy Kan grew up
+- He was a member of the Netherlands Innovation Platform until the platform was dissolved in 2010.
+- During his farewell party at SER he was appointed Commander in the Order of the Netherlands Lion.
+Pred: ["mathematician", "business leader", "university professor", "president", "member", "commander"]
+Gold: ["mathematician", "economist", "economists"]
+EM: 1.0
+----------------------------------------
+Q: What is Scooter Braun's occupation?
+Snippets:
+- Scooter Braun Scott Samuel ""Scooter"" Braun (born June 18, 1981) is an American entrepreneur, talent manager, investor, philanthropist, and entertainment executive.
+- The founder of entertainment and media company SB Projects, Braun represents Justin Bieber, Ariana Grande, Martin Garrix, Psy, Carly Rae Jepsen, Dan + Shay, Zac Brown Band, Kanye West, and Tori Kelly among others.
+- The founder of entertainment and media company SB Projects, Braun represents Justin Bieber, Ariana Grande, Martin Garrix, Psy, Carly Rae Jepsen, Dan +
+- Braun was featured on the ""Time"" 100 list for 2013.
+- In 2016 Scooter won the award for "Best Talent Manager" at the 3rd annual "International Music Industry Awards" presented by Shazam at the 12th annual MUSEXPO in Los Angeles.
+- In 2013, Braun was included on the annual ""Time"" 100 list of the most influential people in the world.
+Pred: ["entrepreneur", "talent manager", "investor", "philanthropist", "entertainment executive"]
+Gold: ["talent manager", "artist manager", "band manager", "music manager", "musician manager", "manager", "pop entrepreneur"]
+EM: 1.0
+----------------------------------------
+Q: What is Leona Detiège's occupation?
+Snippets:
+- Leona Detiège Leona Maria Detiège (born Antwerp, 26 November 1942) is a Belgian politician.
+- 1977 - 1991 : member of Parliament, MP 1991 - 1995 : member of Senate 1988 - 1992 federal Secretary of State#Belgium for pensions 1992 - 1995 Flemish minister of employment and social affairs 1995 Mayor or burgemaster of Antwerp.
+- From 1995 till 2003 she was the mayor of Antwerp.
+- Political mandates : 1974 - 1977 : member of the Provincial Council of Antwerp.
+- She was a member of the Belgian Socialist Party and is till member of its successor Flemish social-democratic party.
+- Frans Detiège Andreas Frans Theodoor Detiège (Antwerp, 22 December 1909 - 1 November 1980) was a Belgian politician for the social democratic Belgian Socialist Party, a member of the Parliament (1947-1974) and mayor of Antwerp (1976), after he had been (1947-1976) alderman for social affairs in the postwar period of mayor Lode Craeybeckx.
+- She is the daughter of former mayor of Antwerp, Frans Detiège, and mother of Maya Detiège, a federal representative.
+- Frans Detiège was the father of Leona Detiège and grandfather of Maya Detiège.
+- Until 2014, she was a federal senator, succeeding Marleen Temmerman in October 2012.
+- Detiège was born in Antwerp.
+Pred: ["politician", "mayor", "member", "senator"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is William Murray, 1st Earl of Mansfield's occupation?
+Snippets:
+- William Murray, 4th Earl of Mansfield William David Murray, 4th Earl of Mansfield, 3rd Earl of Mansfield KT DL (21 February 1806 - 1 August 1898), was a British Conservative politician.
+- David William Murray, 3rd Earl of Mansfield David William Murray, 3rd Earl of Mansfield, KT (7 March 1777 - 18 February 1840) was a British army officer and peer.
+Pred: ["politician", "army officer"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is Þorsteinn Bachmann's occupation?
+Snippets:
+- Þorsteinn Bachmann Þorsteinn Bachmann (born 25 October 1965) is an Icelandic actor.
+- Þorsteinn was born and raised in Reykjavík, the capital of Iceland.
+- His parents were Guðrún Vilmundardóttir and Gylfi Þorsteinsson Gíslason, a university professor and government minister.
+- Þorsteinn Gylfason Þorsteinn Gylfason (12 August 1942 - 16 August 2005) was an Icelandic philosopher, translator, musician and poet.
+- Þorsteinn grew up in the Fossvogur area of Reykjavík, Iceland before moving to Breiðholt when he was 10 years old.
+- Þorsteinn graduated from the Menntaskólinn í Reykjavík gymnasium in 1961 and subsequently received a grant to study at Harvard University.
+- Looking back he remembers, that he was barely able to read or write before changing schools from Fossvogur to the one in Breiðholt.
+- He is known for his role as Móri in ""Life in a Fishbowl"".
+- Þorsteinn distinguished himself in Icelandic public life with his writings in newspapers, journals and publications.
+- Þorsteinn graduated from the Icelandic Drama School in 1991.
+- He was the brother of Vilmundur Gylfason, a politician, and Þorvaldur Gylfason, an economist.
+- graduation he has worked with theatre groups in Reykjavík and Akureyri and was president of the latter for a few years.
+Pred: ["actor"]
+Gold: ["actor", "actress", "actors", "actresses"]
+EM: 1.0
+----------------------------------------
+Q: What is Herlyn Espinal's occupation?
+Snippets:
+- Herlyn Espinal Herlyn Iván Espinal Martínez (14 September 1982 20 July 2014) was a Honduran journalist and television reporter who worked as chief correspondent in San Pedro Sula, the second largest city in Honduras, for Televicentro's daily newscast ""Hoy Mismo"".
+Pred: ["journalist", "television reporter", "chief correspondent"]
+Gold: ["journalist", "journo", "journalists"]
+EM: 1.0
+----------------------------------------
+Q: What is Jacob Kraemer's occupation?
+Snippets:
+- Jacob Kraemer Jacob Kraemer is a Canadian actor, from Fonthill, Ontario.
+- He became known to young audiences after his role in ""The Elizabeth Smart Story"" and as Ben on Disney and Family's ""Naturally, Sadie"".
+- In 2003, Kraemer played Andrew Smart in the CBS made for TV movie, ""The Elizabeth Smart Story"".
+Pred: ["actor"]
+Gold: ["actor", "actress", "actors", "actresses"]
+EM: 1.0
+----------------------------------------
+Q: What is Fred C. Newmeyer's occupation?
+Snippets:
+- Fred C. Newmeyer Fred C. Newmeyer (August 9, 1888 - April 24, 1967) was an American actor, film director and film producer.
+- Fred C. Newmeyer Fred C. Newmeyer (August 9, 1888 - April 24, 1967) was an American actor,
+Pred: ["actor", "film director", "film producer"]
+Gold: ["film director", "movie director", "director", "motion picture director", "film producer", "movie producer", "producer", "actor", "actress", "actors", "actresses"]
+EM: 1.0
+----------------------------------------
+Q: What is Edward Corser's occupation?
+Snippets:
+- Edward Corser Edward Bernard Cresset Corser (1852 - 31 July 1928) was an Australian politician.
+- He was a sugar worker and bank officer in Maryborough in Queensland, eventually becoming a businessman.
+- Edward Corser arrived in Brisbane in about 1863 and moved to Maryborough in the next year.
+- Born in Birmingham, England, he was educated at Worcester and migrated to Australia in 1864.
+Pred: ["politician", "businessman"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is Bae Geu-rin's occupation?
+Snippets:
+- Ye Gue-rin Ye Gue-rin (also ""Ye Geu-rin"", ; born October 16, 1981 in Seoul) is a South Korean judoka, who competed in the women's extra-lightweight category.
+- Her mother is killed and Yeon-soo is accused of murdering her.
+- Hold My Hand () is a 2013 South Korean morning soap opera starring Park Si-eun, Bae Geu-rin, Lee Jae-hwang, and Jin Tae-hyun.
+Pred: ["judoka", "actor"]
+Gold: ["actor", "actress", "actors", "actresses"]
+EM: 1.0
+----------------------------------------
+Q: What is Javier Alva Orlandini's occupation?
+Snippets:
+- Javier Alva Orlandini Javier Alva Orlandini (born December 11, 1927) is a lawyer and a Peruvian politician.
+Pred: ["lawyer", "politician"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
+Q: What is Edgar Allan Poe's occupation?
+Snippets:
+- Edgar Allan Poe in popular culture Edgar Allan Poe has appeared in popular culture as a character in books, comics, film, and other media.
+- The Edgar Allan Poe Museum is a museum located in the Shockoe Bottom neighborhood of Richmond, Virginia, dedicated to American writer Edgar Allan Poe.
+- Though Poe never lived in the building, it serves to commemorate his time living in Richmond.
+- Edgar Allan Poe Museum (Richmond, Virginia)
+- His appearances in popular culture often envision him as a sort of ""mad genius"" or ""tormented artist"", exploiting his personal struggles.
+- The museum features the life and career of Edgar Allan Poe by documenting his accomplishments with pictures, relics, and
+- Many depictions of Poe interweave elements of his life with his works, in part due to Poe's frequent use of first-person narrators, suggesting an erroneous assumption that Poe and his characters are identical.
+- The museum also provides an overview of early 19th century Richmond, where Poe lived and worked.
+- The museum holds one of the world's largest collections of original manuscripts, letters, first editions, memorabilia and personal belongings.
+- Besides his works, the legend of Poe himself has fascinated people for generations.
+- This article focuses specifically on the historical Edgar Allan
+- available for weddings.
+Pred: ["writer"]
+Gold: ["journalist", "journo", "journalists", "playwright", "dramatist", "playwrite", "scriptwriter", "poet", "poetess", "bard"]
+EM: 0.0
+----------------------------------------
+Q: What is John Finlay's occupation?
+Snippets:
+- John Finlay (1774 - December 19, 1833) was a fur trader and explorer with the North West Company.
+- He is best remembered for establishing the first fur trading post in what is now British Columbia, Canada and for his exploration of the Finlay River, one of the two major rivers forming the Peace River.
+- Finlay was born in Montreal, the son of James Finlay, who himself was a significant player in the western Canadian fur trade.
+- John Finlay (1774 - December 19, 1833) was a fur trader and explorer with the North
+- He retired from the fur trade in 1804 and returned to Montreal.
+- John Finlay (fur trader)
+Pred: ["fur trader", "explorer"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 0.0
+----------------------------------------
+Q: What is John Floyd's occupation?
+Snippets:
+- John Floyd (Georgia politician) John Floyd (October 3, 1769 - June 24, 1839) was an American politician and brigadier general in the First Brigade of Georgia Militia in the War of 1812.
+Pred: ["politician", "brigadier general"]
+Gold: ["politician", "political leader", "political figure", "polit.", "pol"]
+EM: 1.0
+----------------------------------------
